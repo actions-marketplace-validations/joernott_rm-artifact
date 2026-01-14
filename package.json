@@ -23,9 +23,9 @@
         "prettier": "^3.7.4"
     },
     "dependencies": {
-        "@actions/artifact": "^5.0.1",
-        "@actions/core": "^2.0.1",
-        "@actions/github": "^6.0.1",
+        "@actions/artifact": "^5.0.2",
+        "@actions/core": "^2.0.2",
+        "@actions/github": "^7.0.0",
         "minimatch": "^10.1.1"
     },
     "description": "Delete an artifact uploaded in the workflow by the upload-artifact action"
